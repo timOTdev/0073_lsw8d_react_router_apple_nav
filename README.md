@@ -1,4 +1,6 @@
-# React Router Apple Nav - Stretch Assignment
+# 0073_lsw8d_react_router_apple_nav
+
+## React Router Apple Nav - Stretch Assignment
 
 * Lets build out an navigation app that mimics `Apple's Slick Navigation` from their marketing website. At this point you have all the knowledge you'll need to be able to complete this stretch assignment.
 
